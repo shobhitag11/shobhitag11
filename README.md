@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shobhitag11
 - 💻 🖱️ 🖥️
-- 👀 I’m interested in Machine Learning, Deep Learning, Data Science etc.
 - 🌱 I’m proficient in Python, Machine learning & Deep Learning.
 
 - Hobbies
