@@ -1,13 +1,12 @@
-- 👋 Hi, I’m @shobhitag11
-- 💻 🖱️ 🖥️
-- 🌱 I’m proficient in Python, Machine learning & Deep Learning.
+🚀 Passionate Data Scientist & AI Enthusiast | Transforming Ideas into Intelligent Applications
 
-- Hobbies
-  - 🎸
-  - 🏀
-  - 📚
+Welcome to my LinkedIn! I'm Shobhit Agarwal, a dedicated Data Scientist with a passion for leveraging cutting-edge technologies in Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing (NLP) and Large Language Models (LLM).
 
-<!---
-shobhitag11/shobhitag11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 What Drives Me:
+I bridge the gap between data and actionable insights. I thrive on turning raw data into meaningful narratives and building intelligent applications that make a real impact.
+
+🛠️ Versatile Tech Proficiency:
+I bring a versatile set of technical skills to the table, ranging from traditional statistical methods to the latest advancements in artificial intelligence. My expertise spans a broad spectrum, allowing me to adapt and innovate across various domains.
+
+📚 Continuous Learner:
+In the ever-evolving landscape of data science and AI, I embrace the philosophy of continuous learning. I stay abreast of the latest research and technologies, ensuring that my skill set remains on the cutting edge.
