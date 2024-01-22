@@ -1,6 +1,6 @@
 🚀 Passionate Data Scientist & AI Enthusiast | Transforming Ideas into Intelligent Applications
 
-Welcome to my LinkedIn! I'm Shobhit Agarwal, a dedicated Data Scientist with a passion for leveraging cutting-edge technologies in Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing (NLP) and Large Language Models (LLM).
+Welcome to my Github! I'm Shobhit Agarwal, a dedicated Data Scientist with a passion for leveraging cutting-edge technologies in Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing (NLP) and Large Language Models (LLM).
 
 💡 What Drives Me:
 I bridge the gap between data and actionable insights. I thrive on turning raw data into meaningful narratives and building intelligent applications that make a real impact.
